@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="117.96453mm"
+   height="74.999756mm"
+   viewBox="0 0 117.96453 74.999756"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="NAND.svg">
+  <title
+     id="title23">NAND</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2082639"
+     inkscape:cx="23.879286"
+     inkscape:cy="106.05441"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>NAND</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-39.999929,-75.000132)">
+    <path
+       id="path835"
+       style="fill:#666666;stroke:#4d4d4d;stroke-width:18.6041;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="M 275.78125,9.3066406 C 235.75727,9.3467372 196.02636,9.6679688 152.92383,9.6679688 V 274.16211 h 196.00781 c 87.73927,-4.9e-4 163.34085,-61.87699 163.3418,-132.24805 C 512.27378,71.542321 436.67182,9.6684865 348.93164,9.6679688 323.91539,9.360027 299.79564,9.2825827 275.78125,9.3066406 Z M 551.59766,113.375 a 28.358043,28.358049 0 0 0 -28.14454,28.35742 28.358043,28.358049 0 0 0 28.35743,28.35742 28.358043,28.358049 0 0 0 28.35937,-28.35742 28.358043,28.358049 0 0 0 -28.35937,-28.35742 28.358043,28.358049 0 0 0 -0.21289,0 z"
+       transform="matrix(0.26458333,0,0,0.26458333,2,74.999998)" />
+  </g>
+</svg>

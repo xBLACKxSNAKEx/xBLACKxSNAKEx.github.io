@@ -1,1 +1,91 @@
-WSTFSUL
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="shortcut icon" href="./IMG/favicon.ico" type="image/x-icon">
+    <title>W.S.T.F.S.U.L.</title>
+</head>
+
+<body>
+    <!-- ANIMATION -->
+    <div id="right"></div>
+    <div id="left"></div>
+    <div id="middle">
+        <img src="./IMG/Logo.png">
+    </div>
+    <div id="savePopUp">
+        <button id="saveTurnOff">X</button>
+        <form>
+            <input type="text" id="name" placeholder="Nazwa Bramki">
+            <svg id="visualisation">
+                <path d="" id="visualisationGate" class="logicGate grayLogicGate"/>
+            </svg>
+            <div class="decisionPanel">
+                <h1>Kształt:</h1>
+                <div id="shapesOptions">
+                    <div id="gateAND"></div>
+                    <div id="gateNOT"></div>
+                    <div id="gateOR"></div>
+                    <div id="gateXOR"></div>
+                </div>
+            </div>
+            <div class="decisionPanel">
+                <h1>Kolor:</h1>
+                <div id="colorOptions">
+                    <div id="red"></div>
+                    <div id="green"></div>
+                    <div id="blue"></div>
+                    <div id="yellow"></div>
+                    <div id="purple"></div>
+                    <div id="orange"></div>
+                </div>
+            </div>
+        </form>
+    </div>
+    <div id="importPopUp">
+        <button id="importTurnOff">X</button>
+        <form>
+            <div id="importGate" class="importOption">
+                <input type="file" name="input" id="inputFile">
+            </div>
+        </form>
+    </div>
+    <!-- BANNER -->
+    <div class="banner" id="banner">
+        <img class="logo" src="img/Logo.png">
+        <p class="tittle">W Sumie To Fajny<wbr> Symulator Układów Logicznych</p>
+    </div>
+    <div class="workArea">
+        <div class="sideMenu">
+            <div class="functionsBar">
+                <div id="save" class="gatesFunctionButton"></div>
+                <div id="import" class="gatesFunctionButton"></div>
+            </div>
+            <div class="gatesBar" id="boxOfGates">
+                <div id="AND" class="buttons"></div>
+                <div id="NOT" class="buttons"></div>
+            </div>
+            <div class="functionsBar">
+                <div id="trash" class="gateContainer gatesBox"></div>
+                <div class="wrapper">
+                    <div id="input" class="linesFunctionButton"></div>
+                    <div id="output" class="linesFunctionButton"></div>
+                    <div id="addLine" class="linesFunctionButton"></div>
+                    <div id="deleteLine" class="linesFunctionButton"></div>
+                </div>
+            </div>
+        </div>
+        <div id="workspace">
+            <svg id="workSpace" class="workSpace">
+        
+            </svg>
+        </div>
+    </div>
+    <script src="./JS/plik.js"></script>
+</body>
+
+</html>

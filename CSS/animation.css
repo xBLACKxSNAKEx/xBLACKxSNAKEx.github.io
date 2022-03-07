@@ -1,0 +1,81 @@
+#right {
+    position: absolute;
+    width: 50vw;
+    height: 100vh;
+    background: linear-gradient(135deg, rgb(255, 33, 33), rgb(165, 32, 32), rgb(77, 32, 32));
+    animation: hideR 1.2s ease-in 1.15s;
+    animation-fill-mode: forwards;
+    right: 0;
+    z-index: 9;
+}
+
+@keyframes hideR {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(100vw);
+        visibility: hidden;
+        width: auto;
+        height: auto;
+    }
+}
+
+#left {
+    position: absolute;
+    width: 50vw;
+    height: 100vh;
+    background: linear-gradient(-135deg, rgb(255, 33, 33), rgb(165, 32, 32), rgb(77, 32, 32));
+    animation: hideL 1.2s ease-in 1.15s;
+    animation-fill-mode: forwards;
+    left: 0;
+    z-index: 9;
+}
+
+@keyframes hideL {
+    from {
+        transform: translateX(0);
+    }
+    to {
+        transform: translateX(-100vw);
+        visibility: hidden;
+        width: auto;
+        height: auto;
+    }
+}
+
+#middle {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    width: 30vw;
+    height: 30vw;
+    top: calc(100vh/2 - 15vw);
+    left: 35vw;
+    background: yellow;
+    box-shadow: inset 0 0 5vh rgb(255, 33, 33);
+    animation: animationM 2.3s ease-in;
+    animation-fill-mode: forwards;
+    border-radius: 50%;
+    overflow: hidden;
+    transform: rotate(180deg);
+    z-index: 10;
+}
+
+#middle img {
+    width: 30vw;
+}
+
+@keyframes animationM {
+    0% {
+        transform: rotate(180deg);
+    }
+    50% {
+        transform: translateX(0);
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: translateX(-100vw);
+        visibility: hidden;
+    }
+}

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="118.05188mm"
+   height="81.817329mm"
+   viewBox="0 0 120.04384 81.817329"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="NOT.svg">
+  <title
+     id="title22">NOT - tekst=20 nie 25</title>
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="411.56974"
+     inkscape:cy="171.27091"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>NOT - tekst=20 nie 25</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Warstwa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-47.851028,-71.559883)">
+    <path
+       id="path1426"
+       style="fill:#0011ff;stroke:#000ba1;stroke-width:40;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:transform-center-x="-15.081288"
+       inkscape:transform-center-y="0.0016969308"
+       d="m 155.50391,13.375 0.0176,128.35742 0.0176,128.35742 171.01758,-64.18945 171.01758,-64.1875 -171.03516,-64.169921 z m 384.90625,97.73047 a 28.73626,28.736268 0 0 0 -28.67383,28.73633 28.73626,28.736268 0 0 0 28.73633,28.73632 28.73626,28.736268 0 0 0 28.73632,-28.73632 28.73626,28.736268 0 0 0 -28.73632,-28.73633 28.73626,28.736268 0 0 0 -0.0625,0 z"
+       transform="matrix(0.26458333,0,0,0.26458333,12,75.000001)" />
+  </g>
+</svg>
